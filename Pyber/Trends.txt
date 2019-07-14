@@ -1,0 +1,7 @@
+Trends:
+
+1:  The number of rides in rural city types is very low compared to other but does have the highest averages for fares per ride.
+
+2:  The Urban city volume of drivers and rides is vastly larger than both the rural and suburban volume of drivers and rides.
+
+3: Although the suburban city types has a vastly lower amount of drivers, it does account for almost a 1/3 of the number of rides and total fares. 
